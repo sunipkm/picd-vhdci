@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+
+  (lib
+    (name "picd-vhdci")
+
+    (type "KiCad")
+
+    (uri "${KIPRJMOD}/picd-vhdci.pretty")
+
+    (options "")
+
+    (descr "Added automatically by kicad-auto-importer")))

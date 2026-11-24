@@ -1,0 +1,9 @@
+{
+  "watch_folder": "C:/Users/sunip/Downloads",
+  "symbol_lib": "${KIPRJMOD}/picd-vhdci.kicad_sym",
+  "footprint_lib": "${KIPRJMOD}/picd-vhdci.pretty",
+  "model_subdir": "3dmodels",
+  "move_zip": false,
+  "backup_zip": true,
+  "overwrite": false
+}
